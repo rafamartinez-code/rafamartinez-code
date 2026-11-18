@@ -1,16 +1,20 @@
-## Hi there 👋
+### Rafael Martínez — Analista de QA | QA Tester
 
-<!--
-**rafamartinez-code/rafamartinez-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atuação em testes de software desde 2022 na **Applause** (crowdtesting global), com foco em validação de aplicações **desktop, web e mobile** (+7 modelos de dispositivos), testes exploratórios, de regressão, aceitação, planos/casos de teste e registro técnico de defeitos.
 
-Here are some ideas to get you started:
+Formado no programa full stack **Certified Tech Developer** da **Digital House** (criado com Mercado Livre e Globant), com base acadêmica em Análise e Desenvolvimento de Sistemas (Facint — trancado) e inglês intermediário-avançado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### Foco Técnico & Estudos em QA
+- **Testes & Processos:** Exploratório, Regressão, Aceitação, Planos e Casos de Teste, BDD, Scrum, Kanban
+- **API & Performance (estudos/prática):** Postman, Insomnia, Apache JMeter
+- **Automação (projetos de estudo):** Cypress, Playwright *(+ estudos prévios em Selenium, Robot Framework, Appium, Jest e Sikuli)*
+- **Programação, Dados & Ferramentas:** JavaScript (Node.js), Java, SQL (MySQL), Git, Docker, AWS
+
+---
+
+#### Contato
+- 📍 Curitiba, PR — Brasil (disponível presencial/híbrido em Curitiba e remoto)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rafaelmartinezqa/)
+- ✉️ rafaelmartinez.qa@gmail.com
